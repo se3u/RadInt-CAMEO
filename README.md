@@ -16,4 +16,3 @@ Il manque :
 - Concepts système (définir s'il y en a)
 - Exigences non fonctionnelles
 - Traçabilité
- BD
