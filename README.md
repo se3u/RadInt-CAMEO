@@ -1,5 +1,7 @@
 # Projet **RADINT** - Fichiers CAMEO
-## Contenu du dernier fichier 17/02/23
+## Contenu du dernier fichier 01/03/23
+- Besoins
+- Exigences non fonctionnelles
 - PFMS
 - Cycle de vie
 - Diagrammes de contexte
@@ -7,12 +9,9 @@
 - Diagramme d'état du système
 - Diagramme de séquence pour chaque cas d'utilisation
 - Exigences fonctionnelles associées aux cas d'utilisation
-
+- Traçabilité
 (Tout est à vérifier)
 
 Il manque :
-- Besoins
 - Phase de vie (à clarifier)
 - Concepts système (définir s'il y en a)
-- Exigences non fonctionnelles
-- Traçabilité
